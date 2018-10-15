@@ -1,0 +1,13 @@
+name: MilConomy
+version: 0.1
+main: me.mil.coolserv.economy.main.Main
+
+commands:
+  economy:
+   description: do economy
+   aliases: [eco, ec]
+   usage: <command>
+  balance:
+   description: see your's or others balance
+   aliases: [bal]
+   usage: <command>
